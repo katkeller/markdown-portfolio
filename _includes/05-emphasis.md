@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm *really* good at **Sudoku puzzles** and I also once snatched a :sparkles: **fruit fly** :sparkles: out of the air **without looking.**
