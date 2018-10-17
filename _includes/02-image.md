@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a pixel art fountain pen](https://i.imgur.com/RAULv9L.png)
