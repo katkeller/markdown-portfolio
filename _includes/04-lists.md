@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Fountain pens
+- Hum Bao
+- Fleet Foxes
+- The Kingkiller Chronicle
